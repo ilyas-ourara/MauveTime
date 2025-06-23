@@ -1,6 +1,3 @@
-
-
-
 function update_clock() {
     const current_time= new Date() ;
     console.log("current time is : " +current_time) ;
@@ -19,4 +16,16 @@ function update_clock() {
 
 setInterval(update_clock,1000) ;  // c'est a dire execute la fonction update_cloclk chaque 1000 miliseconds(chaque seconds)
 
-update_clock() ;
+;
+
+window.addEventListener('DOMContentLoaded', function() {
+  var clock = document.querySelector('.clock-container');
+  var loader = document.getElementById('loader');
+  if (clock) clock.style.display = 'none';
+  if (loader) loader.style.display = 'flex';
+
+  setTimeout(function() {
+    if (loader) loader.style.display = 'none';
+    if (clock) clock.style.display = '';
+  }, 2000);
+});
