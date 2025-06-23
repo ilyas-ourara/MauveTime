@@ -5,20 +5,15 @@ Elle affiche l'heure actuelle en temps réel et s'adapte à tous les écrans.
 
 ---
 
-## 🚀 Aperçu du site
+### 🚀 Aperçu du site
 
 🟢 Le site est en ligne ici :  
-👉 [https://incandescent-unicorn-90a0b8.netlify.app]([https://incandescent-unicorn-90a0b8.netlify.app](https://mauvetime.netlify.app/))
+👉 [Voir le site en direct](https://mauvetime.netlify.app)
+
 
 ---
 
-## 📸 Capture d'écran
 
-![MauveTime Screenshot](https://incandescent-unicorn-90a0b8.netlify.app/screenshot.png)
-
-> 🔁 (Tu peux remplacer cette image par une capture d’écran réelle de ton site ou utiliser un outil pour générer un aperçu automatique)
-
----
 
 ## 📁 Fichiers du projet
 
